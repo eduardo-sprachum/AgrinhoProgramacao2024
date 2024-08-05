@@ -1,4 +1,10 @@
-.Campo-Cidade-titulo{
+.campo-cidade-titulo{
     font-family: "Bebas Neue";
     font-size: 30px;
+}
+
+.campo-cidade-imagemgeral {
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
 }
