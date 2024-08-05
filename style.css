@@ -25,14 +25,9 @@ body{
 .campo-cidade-imagemgeral {
     padding: 24px;
     height: 650px;
-    width: 1200px;
-    margin-top: 5px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
+    margin-top: 5px;;
+     display: block;
+      margin-left: auto;
+       margin-right: auto;
+       width: 50%;
       }
-}
