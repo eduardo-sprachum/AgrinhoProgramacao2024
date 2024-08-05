@@ -4,7 +4,6 @@
 }
 
 .campo-cidade-imagemgeral {
-    justify-content: space-around;
     align-items: center;
-    padding: 24px 0;
+    padding: 24px;
 }
