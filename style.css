@@ -6,4 +6,6 @@
 .campo-cidade-imagemgeral {
     align-items: center;
     padding: 24px;
+    height: 400px;
+    width: 800px;
 }
