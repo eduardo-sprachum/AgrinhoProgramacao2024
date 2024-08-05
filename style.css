@@ -6,10 +6,13 @@ body{
 .cabecalho{
     margin-bottom: 0px;
     display: flex;
-    
+
 }
 
-
+.cabecalho-img{
+    width: 30px;
+    height: 30px;
+}
 
 .campo-cidade-titulo{
     font-family: "Bebas Neue";
