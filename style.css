@@ -23,7 +23,7 @@ body{
     padding: 24px;
     height: 650px;
     width: 1200px;
-    position:absolute;
-    position: 50%;
-    position: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
