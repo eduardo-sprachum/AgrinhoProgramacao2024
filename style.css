@@ -1,12 +1,12 @@
 body{
-    background-color: rgb(13, 48, 13)
-
+    background-color: rgb(13, 48, 13);
+    color:white;
 }
 
 .cabecalho{
     margin-bottom: 0px;
     display: flex;
-
+    color: white;
 }
 
 .cabecalho-img{
