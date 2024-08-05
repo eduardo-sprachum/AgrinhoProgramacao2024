@@ -5,6 +5,7 @@ body{
 
 .cabecalho{
     margin-bottom: 0px;
+    padding: 0;
     display: flex;
     color: white;
     background-color: rgb(13, 48, 13);
@@ -25,6 +26,7 @@ body{
     padding: 24px;
     height: 650px;
     width: 1200px;
+    margin-top: 5px;
     display: flex;
     align-items: center;
     justify-content: center;
