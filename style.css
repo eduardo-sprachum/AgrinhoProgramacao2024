@@ -10,6 +10,7 @@ body{
     color: white;
     background-color: rgb(13, 48, 13);
     align-items: center;
+    align-content: center;
 }
 
 .cabecalho-img{
