@@ -23,7 +23,6 @@ body{
 }
 
 .campo-cidade-imagemgeral, 
-.abastecimento-imagem, 
 .preservacao-imagem, 
 .soberania-imagem, 
 .desenvolvimento-tec-imagem,
@@ -35,6 +34,17 @@ body{
       margin-left: auto;
        margin-right: auto;
        width: 70%;
+
+}
+
+.abastecimento-imagem
+  {
+    padding: 24px;
+    margin-top: 5px;
+     display: block;
+      margin-left: auto;
+       margin-right: auto;
+       width: 45%;
 
 }
 
