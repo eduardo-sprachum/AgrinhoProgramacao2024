@@ -9,6 +9,7 @@ body{
     display: flex;
     color: white;
     background-color: rgb(13, 48, 13);
+    align-items: center;
 }
 
 .cabecalho-img{
@@ -19,7 +20,6 @@ body{
 .campo-cidade-titulo{
     font-family: "Bebas Neue";
     font-size: 30px;
-    align-items: center;
 }
 
 .campo-cidade-imagemgeral 
