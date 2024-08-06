@@ -23,10 +23,7 @@ body{
 }
 
 .campo-cidade-imagemgeral, 
-.preservacao-imagem, 
-.soberania-imagem, 
 .desenvolvimento-tec-imagem,
-.servicos-especializados-imagem
   {
     padding: 24px;
     margin-top: 5px;
@@ -37,7 +34,10 @@ body{
 
 }
 
-.abastecimento-imagem
+.abastecimento-imagem,
+.preservacao-imagem, 
+.soberania-imagem, 
+.servicos-especializados-imagem
   {
     padding: 24px;
     margin-top: 5px;
@@ -48,6 +48,3 @@ body{
 
 }
 
-.servicos-especializados-imagem {
-    width:20%;
-}
