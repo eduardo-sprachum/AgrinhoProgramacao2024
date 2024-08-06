@@ -23,7 +23,6 @@ body{
 }
 
 .campo-cidade-imagemgeral, 
-.desenvolvimento-tec-imagem
   {
     padding: 24px;
     margin-top: 5px;
@@ -37,6 +36,7 @@ body{
 .abastecimento-imagem,
 .preservacao-imagem, 
 .soberania-imagem, 
+.desenvolvimento-tec-imagem
 .servicos-especializados-imagem
   {
     padding: 24px;
