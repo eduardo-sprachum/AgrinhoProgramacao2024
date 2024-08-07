@@ -24,6 +24,11 @@ body{
     font-size: 30px;
 }
 
+.cabeçalho-lista-item1 {
+  display: inline-block;
+  margin: 0 16px;
+}
+
 .campo-cidade-imagemgeral 
   {
     padding: 24px;
