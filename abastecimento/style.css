@@ -2,3 +2,8 @@ body{
     background-color: rgb(37, 70, 37);
     color:white;
 }
+
+.abastecimento-imagem
+{
+align-items: center;
+}
