@@ -2,3 +2,13 @@ body{
     background-color: rgb(37, 70, 37);
     color:white;
 }
+
+.servicos-especializados-imagem
+  {
+    padding: 24px;
+    margin-top: 5px;
+     display: block;
+      margin-left: auto;
+       margin-right: auto;
+       width: 55%;
+}
