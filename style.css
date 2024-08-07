@@ -9,6 +9,7 @@ body{
     display: flex;
     color: white;
     background-color: rgb(13, 48, 13);
+    font-size: 30px;
     align-items: center;
     align-content: center;
     text-align: center;
