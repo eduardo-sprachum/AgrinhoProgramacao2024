@@ -12,3 +12,21 @@ body{
        margin-right: auto;
        width: 55%;
 }
+
+.rodapé{
+  background-color: rgb(52, 107, 190);
+  color: rgb(221, 159, 44);
+  font-size: 20px;
+  display: flex;
+  justify-content: space-around;
+  padding: 20px 0;
+  align-items: center;
+}
+
+.rodapé-imagem{
+  width: 70px;
+}
+
+.rodapé-ícone{
+  width: 40px;
+}
