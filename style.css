@@ -77,7 +77,7 @@ body{
 .rodapé{
   background-color: rgb(52, 107, 190);
   color: rgb(221, 159, 44);
-  font-size: 20px;
+  font-size: 50px;
   display: flex;
   justify-content: space-around;
   padding: 50px 0;
@@ -85,9 +85,9 @@ body{
 }
 
 .rodapé-imagem{
-  width: 70px;
+  width: 120px;
 }
 
 .rodapé-ícone{
-  width: 30px;
+  width: 50px;
 }
