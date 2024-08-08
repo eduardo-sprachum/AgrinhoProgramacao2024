@@ -11,6 +11,7 @@ body{
     background-color: rgb(13, 48, 13);
     font-size: 50px;
     font-family: "Bebas Neue";
+    display: flex;
     align-items: center;
     align-content: center;
     text-align: center;
