@@ -29,7 +29,8 @@ body{
 
 .cabeçalho-lista {
   color: white;
-  font-size: 150%;
+  font-size: 125%;
+  font-family: "Bebas Neue";
 }
 
 .campo-cidade-imagemgeral 
