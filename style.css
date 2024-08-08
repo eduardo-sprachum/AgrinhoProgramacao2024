@@ -77,7 +77,7 @@ body{
 .rodapé{
   background-color: rgb(52, 107, 190);
   color: rgb(221, 159, 44);
-  font-size: 30px;
+  font-size: 20px;
   display: flex;
   justify-content: space-around;
   padding: 20px 0;
